@@ -1,5 +1,4 @@
 
-import { type } from '@testing-library/user-event/dist/type';
 import './App.css';
 import PriceCard from './components/PriceCard';
 
